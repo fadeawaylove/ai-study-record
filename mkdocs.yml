@@ -5,4 +5,5 @@ theme:
 
 nav:
     - Home: index.md
+    - "迁移学习": transfer_learning.md
     - About: about.md
